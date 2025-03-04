@@ -9,8 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/work-cykim/demo-mud-temp-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/work-cykim/demo-mud-temp-backend/issues"
+  },
+  "homepage": "https://github.com/work-cykim/demo-mud-temp-backend#readme",
+  "description": ""
 }
