@@ -1,0 +1,16 @@
+{
+  "name": "temp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json --port 5000",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
